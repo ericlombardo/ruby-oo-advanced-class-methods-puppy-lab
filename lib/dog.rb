@@ -1,4 +1,4 @@
-class Dog
+class Dog                 # creates dog class
 
   attr_accessor :name     # writer and reader for @name
   @@all = []              
